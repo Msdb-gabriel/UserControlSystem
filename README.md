@@ -1,10 +1,10 @@
-📌 Sistema de Cadastro de Usuários — Java
+* Sistema de Cadastro de Usuários — Java
 
 Este projeto foi desenvolvido com o objetivo de consolidar os fundamentos de Java e Programação Orientada a Objetos (POO) por meio de um sistema simples, mas bem estruturado, simulando comportamentos reais de um backend.
 
 A aplicação roda via terminal e permite o gerenciamento básico de usuários, focando mais na qualidade do código e na lógica do que em interface gráfica.
 
-🎯 Objetivo do Projeto
+  Objetivo do Projeto
 
 O principal objetivo foi evoluir do “código que funciona” para um código:
 
@@ -16,21 +16,21 @@ alinhado a boas práticas usadas no mercado
 
 Este projeto também serve como base conceitual para aplicações futuras com Spring Boot.
 
-⚙️ Funcionalidades
+  Funcionalidades
 
-✅ Cadastrar usuário (nome e e-mail)
+- Cadastrar usuário (nome e e-mail)
 
-🔍 Buscar usuário pelo e-mail
+- Buscar usuário pelo e-mail
 
-📋 Listar usuários cadastrados
+- Listar usuários cadastrados
 
-🗑️ Remover usuário pelo e-mail
+- Remover usuário pelo e-mail
 
-🚫 Impedir usuários duplicados com base no e-mail
+- Impedir usuários duplicados com base no e-mail
 
-🧠 Conceitos e Tecnologias Utilizadas
+- Conceitos e Tecnologias Utilizadas
 
-Java
+  Java
 
 Programação Orientada a Objetos
 
@@ -54,18 +54,18 @@ Estrutura de projeto organizada
 
 Menu interativo via Scanner
 
-🏗️ Estrutura do Projeto
+  Estrutura do Projeto
 
-Usuario
+- Usuario
 Responsável por representar a entidade do sistema e definir a identidade do usuário (email).
 
-UsuarioService
+- UsuarioService
 Camada responsável pela regra de negócio: cadastro, busca, listagem e remoção.
 
-Main
+- Main
 Responsável apenas por orquestrar o fluxo do sistema e interação com o usuário.
 
-🚀 Aprendizados
+  Aprendizados
 
 Durante o desenvolvimento deste projeto, foi possível fortalecer:
 
@@ -79,7 +79,7 @@ a importância de código limpo e organizado
 
 Esse projeto marca um avanço importante na minha jornada como desenvolvedor backend Java.
 
-▶️ Como executar
+  Como executar
 
 Clone o repositório
 
