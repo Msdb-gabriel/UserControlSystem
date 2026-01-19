@@ -89,6 +89,4 @@ Execute a classe Main
 
 Interaja com o menu via terminal
 
-📌 Observação
 
-Projeto desenvolvido com fins educacionais e de portfólio, focado na evolução contínua e preparação para oportunidades de estágio e desenvolvimento backend.
